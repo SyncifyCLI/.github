@@ -24,7 +24,7 @@ All usage examples are based on the minimalist [dusk](https://github.com/Syncify
 You can use the Syncify CLI to generate any one of these repositiories. Developers who are using [pnpm](https://pnpm.io/) can leverage dlx to fetches Syncify from the registry without installing, hotload it, and run the setup binary which will trigger the setup prompt.
 
 ```bash
-pnpm dlx syncify setup  # Triggers the setup
+pnpm dlx @syncify/cli syncify setup  # Triggers the setup
 ```
 
 ### Contributing
