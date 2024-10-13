@@ -18,14 +18,6 @@ All usage examples are based on the minimalist [dusk](https://github.com/Syncify
 
 - [Official Syncify Repository](https://github.com/panoply/syncify)
 - [Syncify Documentation](https://syncify.sh)
-  
-### Generation
-
-You can use the Syncify CLI to generate any one of these repositiories. Developers who are using [pnpm](https://pnpm.io/) can leverage dlx to fetches Syncify from the registry without installing, hotload it, and run the setup binary which will trigger the setup prompt.
-
-```bash
-pnpm dlx @syncify/cli syncify setup
-```
 
 ### Contributing
 
